@@ -1,0 +1,22 @@
+text id="q3lzqv"
+codigo_fuente_proyecto.zip:
+Contiene el código fuente principal del sistema.
+URL pública del repositorio: https://github.com/brunno009d/study_codigo_fuente.git
+
+repositorio_backend.zip:
+Contiene el backend/API del proyecto.
+URL pública del repositorio: apigateway: https://github.com/brunno009d/study-api-gateway.git
+URL pública del repositorio: user-service: https://github.com/brunno009d/study-ms-user-service.git
+URL pública del repositorio: ai-service: https://github.com/brunno009d/study-ms-ai-service.git
+URL pública del repositorio: material-notes-service: https://github.com/brunno009d/study-ms-notes-materials-service.git
+URL pública del repositorio: grades-service: https://github.com/brunno009d/study-ms-grades-service.git
+URL pública del repositorio: curriculum-service: https://github.com/brunno009d/study-ms-curriculum-service.git
+URL pública del repositorio: calendar-service: https://github.com/brunno009d/study-ms-calendar-service.git 
+
+repositorio_frontend.zip:
+Contiene la interfaz web del proyecto.
+URL pública del repositorio: https://github.com/AmaroCpDita/study-frontend.git
+
+base_de_datos.zip:
+Contiene scripts SQL, tablas, procedimientos almacenados y datos de prueba.
+URL pública del repositorio: https://github.com/brunno009d/study_bd.git
